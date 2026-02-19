@@ -71,27 +71,6 @@ Download the latest APK from [GitHub Releases](https://github.com/MrTelepathic/T
 | SOCKS | `socks://user:pass@host:port#remark` | ✅ Full Support |
 | HTTP | `http://user:pass@host:port#remark` | ✅ Full Support |
 
-## What's New in v1.8.0
-
-### 🔄 Database Migration
-- **MMKV Integration**: Migrated from SharedPreferences to MMKV for 100x faster performance
-- **Multi-Process Support**: All storages use `MULTI_PROCESS_MODE` for VPN service compatibility
-- **Auto Migration**: Seamless migration from old SharedPreferences data
-- **Optimized Storage**: Separate storages for configs, subscriptions, settings, and cache
-
-### 🎨 UI Improvements
-- **Home Screen Redesign**: Improved connection info grid layout
-- **Latency Display**: Real-time ping measurement with refresh button
-- **Better Icons**: Circular icon containers for Download/Upload/Latency
-- **Responsive Design**: FittedBox for speed values to prevent widget expansion
-- **GitHub Logo**: SVG icon for better quality in About screen
-
-### 🐛 Bug Fixes
-- Fixed duplicate code in v2ray_service.dart
-- Fixed latency measurement timeout issues
-- Fixed ping cache loading with proper timestamp validation
-- Improved error handling for subscription fetching
-
 
 <div align="center">
 
