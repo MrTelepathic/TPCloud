@@ -7,7 +7,7 @@
 
 A modern VPN application for Android with V2Ray/Xray protocol support and iOS-style UI design.
 
-[Features](#features) • [Installation](#installation) • [Contributing](#contributing)
+[Features](#features) • [Installation](#installation)
 
 </div>
 
