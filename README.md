@@ -76,7 +76,7 @@ Download the latest APK from [GitHub Releases](https://github.com/MrTelepathic/T
 
 **MrTelepathic**
 
-[![GitHub](https://img.shields.io/badge/GitHub-CluvexStudio-181717?logo=github)](https://github.com/MrTelepathic)
+[![GitHub](https://img.shields.io/badge/GitHub-MrTelepathic-181717?logo=github)](https://github.com/MrTelepathic)
 
 Made with ❤️ for digital freedom
 
